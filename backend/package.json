@@ -1,0 +1,20 @@
+{
+  "name": "strip_payment_gatway",
+  "version": "1.0.0",
+  "description": "React Node and Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "VarunBM",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "strip": "^3.0.0",
+    "stripe": "^8.64.0",
+    "uuid": "^8.1.0"
+  }
+}
